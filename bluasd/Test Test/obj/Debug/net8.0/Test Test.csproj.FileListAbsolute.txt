@@ -1,0 +1,15 @@
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\bin\Debug\net8.0\Test Test.exe
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\bin\Debug\net8.0\Test Test.deps.json
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\bin\Debug\net8.0\Test Test.runtimeconfig.json
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\bin\Debug\net8.0\Test Test.dll
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\bin\Debug\net8.0\Test Test.pdb
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.GeneratedMSBuildEditorConfig.editorconfig
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.AssemblyInfoInputs.cache
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.AssemblyInfo.cs
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.csproj.CoreCompileInputs.cache
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.sourcelink.json
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.dll
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\refint\Test Test.dll
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.pdb
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\Test Test.genruntimeconfig.cache
+K:\JL - 2213276\Algorithms\Week 1\AAaDS_2\bluasd\Test Test\obj\Debug\net8.0\ref\Test Test.dll

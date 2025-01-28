@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\JL - 2213276\\Algorithms\\Week 1\\New\\AppendLibrary\\AppendLibrary.csproj": {}
+    "K:\\JL - 2213276\\Algorithms\\Week 1\\AAaDS_2\\New\\AppendLibrary\\AppendLibrary.csproj": {}
   },
   "projects": {
-    "K:\\JL - 2213276\\Algorithms\\Week 1\\New\\AppendLibrary\\AppendLibrary.csproj": {
+    "K:\\JL - 2213276\\Algorithms\\Week 1\\AAaDS_2\\New\\AppendLibrary\\AppendLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\JL - 2213276\\Algorithms\\Week 1\\New\\AppendLibrary\\AppendLibrary.csproj",
+        "projectUniqueName": "K:\\JL - 2213276\\Algorithms\\Week 1\\AAaDS_2\\New\\AppendLibrary\\AppendLibrary.csproj",
         "projectName": "AppendLibrary",
-        "projectPath": "K:\\JL - 2213276\\Algorithms\\Week 1\\New\\AppendLibrary\\AppendLibrary.csproj",
+        "projectPath": "K:\\JL - 2213276\\Algorithms\\Week 1\\AAaDS_2\\New\\AppendLibrary\\AppendLibrary.csproj",
         "packagesPath": "C:\\Users\\jl1143\\.nuget\\packages\\",
-        "outputPath": "K:\\JL - 2213276\\Algorithms\\Week 1\\New\\AppendLibrary\\obj\\",
+        "outputPath": "K:\\JL - 2213276\\Algorithms\\Week 1\\AAaDS_2\\New\\AppendLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
